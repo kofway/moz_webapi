@@ -1,2 +1,1 @@
-moz_webapi
-==========
+repo for mozilla webapi demo
